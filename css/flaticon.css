@@ -23,8 +23,8 @@
 }
 
 [class^="flaticon-"]:before, [class*=" flaticon-"]:before,
-[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
-  font-family: Flaticon;
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {
+    font-family: Flaticon, serif;
   font-size: 20px;
   line-height: 1!important;
   font-style: normal;
@@ -274,3 +274,7 @@
 .flaticon-tulip:before { content: "\f1f0"; }
 .flaticon-web-browser-1:before { content: "\f1f1"; }
 .flaticon-measuring:before { content: "\f1f2"; }
+.ico-tiktok img {
+    width: 21px;
+    height: 24px;
+}
