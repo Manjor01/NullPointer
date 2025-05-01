@@ -68,7 +68,7 @@ video {
 
 .wsmenucontainer {
   background-size: cover;
-  background-image: url(../images/bg01.jpg);
+  background-image: url("images/bg.png");
   overflow: hidden;
   background-attachment: fixed;
   background-position: 50% 0;
@@ -106,6 +106,8 @@ video {
 }
 
 .desktoplogo img {
+  height: 100px;
+  width: auto;
   vertical-align: middle;
 }
 
@@ -1431,7 +1433,7 @@ body.wsactive {
 }
 
 /* Extra @Media Query*/
-@media only screen and (min-width: 992px) and (max-width:1162px) {
+@media only screen and (min-width: 992px) and (max-width:1222px) {
 .desktoplogo {
   margin-left: 12px;
 }
