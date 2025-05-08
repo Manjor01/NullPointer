@@ -629,7 +629,7 @@
 
   .wsmenu > .wsmenu-list > li a.btn.btn-tra-white { background-color: #eee; border-color: #eee; color: #666; }
   .wsmobileheader .smllogo { display: block; margin-top: 17px; padding-left: 28px; }
-  .smllogo img { width: auto; max-width: inherit; max-height: 46px; }
+  .smllogo img { height: 55px; width: auto; }
 
   /*------------------------------------------*/
   /*   HERO   
@@ -1240,7 +1240,8 @@
 
   .wsmenu > .wsmenu-list > li a.btn.btn-tra-white { background-color: #eee; border-color: #eee; color: #666; }
   .wsmobileheader .smllogo { display: block; margin-top: 17px; padding-left: 18px; }
-  .smllogo img { width: auto; max-width: inherit; max-height: 46px; }
+  .smllogo img { height: 55px; /* задаёт точный размер */
+    width: auto; }
 
   /*------------------------------------------*/
   /*   HERO   
@@ -2080,7 +2081,8 @@
   /*------------------------------------------*/
 
   .wsmobileheader .smllogo { display: block; margin-top: 20px; padding-left: 18px; }
-  .smllogo img { width: auto; max-width: inherit; max-height: 40px; }
+  .smllogo img { height: 55px; /* задаёт точный размер */
+    width: auto; }
 
   /*------------------------------------------*/
   /*   HERO   
@@ -2659,7 +2661,7 @@
   /*------------------------------------------*/
 
   .wsmobileheader .smllogo { display: block; margin-top: 20px; padding-left: 18px; }
-  .smllogo img { width: auto; max-width: inherit; max-height: 40px; }
+  .smllogo img { height: 55px; width: auto; }
 
   /*------------------------------------------*/
   /*   HERO   
@@ -3252,7 +3254,8 @@
   /*------------------------------------------*/
 
   .wsmobileheader .smllogo { display: block; margin-top: 20px; padding-left: 18px; }
-  .smllogo img { width: auto; max-width: inherit; max-height: 40px; }
+  .smllogo img { height: 55px; /* задаёт точный размер */
+    width: auto; }
 
   /*------------------------------------------*/
   /*   HERO   
