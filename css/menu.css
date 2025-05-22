@@ -1448,3 +1448,16 @@ body.wsactive {
   padding-right: 22px;
 }
 }
+
+.form-control,
+.btn {
+  border: 1px solid #f4a300; /* золотистый */
+  border-radius: 0;
+}
+
+
+.contact-form {
+  background-color: #f4f9f9;
+  padding: 40px;
+  border-radius: 10px;
+}
