@@ -8307,11 +8307,22 @@ nav a#pull {
 .scroll .btn-theme, 
 .white-color .btn-theme,
 .theme-hover:hover, 
-.scroll .theme-hover:hover, 
+.scroll .theme-hover:hover,
 .white-color .theme-hover:hover {
   color: #fff!important;
   background-color: #ff495a;
   border-color: #ff495a!important;
+}
+
+.btn-whatsapp {
+  color: #ffffff !important;
+  background-color: #25D366;
+  border-color: #25D366 !important;
+}
+
+.btn-whatsapp:hover {
+  background-color: #128C7E; /* чуть темнее при наведении */
+  border-color: #128C7E !important;
 }
 
 .btn-tra-theme, 
